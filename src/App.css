@@ -1,0 +1,43 @@
+.app {
+  border: 1px black solid;
+  border-radius: 8px;
+  width:50%;
+  margin: 0 auto;
+  background-color: #012739;
+  color: aqua;
+}
+.app-header{
+  text-align: center;
+
+}
+.add{
+  border: 1px black solid;
+  border-radius: 8px;
+  height: 36px;
+  width: 60px;
+  background-color: #008c9f;
+  
+}
+.head{
+  border: 1px black solid;
+  border-radius: 8px;
+  width: 250px;
+  height: 30px;
+  margin-right: 10px;
+}
+.list{
+  border-radius: 8px;
+  background-color: #008c9f;
+  color: white;
+  width: 80%;
+  margin: 0 auto;
+}
+.del__button{
+  font-size: 15px;
+}
+.item{
+  display: flex;
+}
+.trash{
+  width: 70%;
+}
